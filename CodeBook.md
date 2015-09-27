@@ -17,7 +17,7 @@ This code book includes information about the source data, the transformations p
 12. Then applied the mean and standard deviation calculations across the groups
 13. Produced "calculated_tidy_dataset.txt" as the second expected output
 
-Please refer to [run_analysis.R] (https://github.com/kkadu/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R) for implementation details.
+Please refer to [run_analysis.R] (https://github.com/kkadu/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.r) for implementation details.
 
 Variables
 ---------
